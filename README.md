@@ -6,7 +6,7 @@ A webcomponenent to search products from catalog
 
 ```sh
 npm i
-npm start
+npm run dev
 ```
 
 ## Compile
